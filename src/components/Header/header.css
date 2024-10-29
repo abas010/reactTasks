@@ -1,0 +1,13 @@
+.a-left{
+margin-left: 10px;
+color: white;
+text-decoration: none;
+}
+.a-right{
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+.navMax{
+    max-height: 100px;
+}

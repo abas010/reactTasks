@@ -1,0 +1,7 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+.width900{
+    width: 900px;
+}

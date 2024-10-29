@@ -1,0 +1,7 @@
+.white {
+  color: white;
+}
+.felx-centered{
+    display: flex;
+    justify-content: center;
+}
